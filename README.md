@@ -35,14 +35,16 @@ It integrates **Python**, **MySQL**, and **Power BI** to deliver a complete data
 
  <a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/consumption.csv">Consumption Dataset</a>
 
+<a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/countries.csv">Country Dataset</a>
 
+<a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/energy_sources.csv">Energy Dataset</a>
 
+<a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/production.csv">Production</a>
 
+## Codes Links
 
+<a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/Global%20Renewable%20Energy.ipynb">Python</a>
 
+<a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/global_renewable_energy_production.sql">MYSQL</a>
 
-
-
-
-
-
+<a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/global_renewable_energy_production%20.powerbi.pbix">Power Bi</a>
