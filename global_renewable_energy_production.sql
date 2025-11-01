@@ -2,7 +2,7 @@ CREATE DATABASE global_renewable_energy_production;
 
 USE global_renewable_energy_production;
 
-
+# Questions
 SELECT DISTINCT Country_Name, Continent
 FROM global_renewable_energy_production;
 
