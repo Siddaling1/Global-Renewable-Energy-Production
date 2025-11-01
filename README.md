@@ -31,9 +31,9 @@ It integrates **Python**, **MySQL**, and **Power BI** to deliver a complete data
 - `PowerBI_Dashboard.pbix`
 
 
+## Datasets Links 
 
-
-
+Consumption Dataset=  <a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/consumption.csv"></a
 
 
 
