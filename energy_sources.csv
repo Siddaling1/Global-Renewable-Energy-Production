@@ -1,0 +1,5 @@
+Source_ID,Source_Type,Category,Efficiency_Rate
+E001,Solar,Renewable,0.82
+E002,Wind,Renewable,0.75
+E003,Hydro,Renewable,0.9
+E004,Biomass,Renewable,0.68
