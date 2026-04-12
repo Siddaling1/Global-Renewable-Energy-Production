@@ -48,3 +48,7 @@ It integrates **Python**, **MySQL**, and **Power BI** to deliver a complete data
 <a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/global_renewable_energy_production.sql">MYSQL</a>
 
 <a href="https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/global_renewable_energy_production%20.powerbi.pbix">Power Bi</a>
+
+## Dashboard
+
+![Project Screenshot](https://github.com/Siddaling1/Global-Renewable-Energy-Production/blob/main/Screenshot%202026-04-12%20134152.png?raw=true)
